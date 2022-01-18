@@ -1,0 +1,37 @@
+{
+  "news": [
+    {
+      "id": "619a3664-1577-4e39-b11c-3a2a8b37cc62",
+      "name": "Chilonzorda tadbirkor va fuqarolar kelisha olmayapti. Hokimlik qurilish uchun yer ajratishda aholi fikrini inobatga olmaydimi?",
+      "description": "Chilonzorda tadbirkor va fuqarolar kelisha olmayapti. Hokimlik qurilish uchun yer ajratishda aholi fikrini inobatga olmaydimi?",
+      "category": "Russian News"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Evro News",
+      "label": "Evro News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "Russian News",
+      "label": "Russian News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "Uzb News",
+      "label": "Uzb News",
+      "className": "btn-success"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-warning"
+    }
+  ]
+}
